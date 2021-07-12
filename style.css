@@ -23,15 +23,24 @@ main {
   padding: 0.7vw;
   background-color: #5D737E;
   margin: auto;
+  font-size: 50px;
 }
 #mission {
   font-size: 1.4vw;
   padding: 0.7vw;
   background-color: #5D737E;
   margin: auto;
+  font-size: 50px;
 }
 #support {
   background-color: #5D737E;
   padding: 0.7vw;
   margin: auto;
+  font-size: 50px;
+}
+
+a {
+  text-decoration: none;
+  background-color: none;
+  color: aqua;
 }
